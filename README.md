@@ -2,8 +2,7 @@
 
 ## Overview
 
-This is a simple Unix shell program implemented in C from scratch. It provides basic functionality to execute commands. This shell is designed to mimic some of the behaviors of standard Unix shells.
-
+A custom shell program developed as part of my journey to learn and understand operating systems. Written entirely in C, it is capable of executing basic user commands and launching applications. The project leverages fundamental concepts such as process forking, system calls, and command parsing, giving me practical exposure to low-level system programming and a deeper understanding of how shells interact with the operating system.
 ## Features
 
 - Command execution
